@@ -1,2 +1,5 @@
 this is file2
 adding content to file2
+hello world
+egula notun text file1
+kire mama
